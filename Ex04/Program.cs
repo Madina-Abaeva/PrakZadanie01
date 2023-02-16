@@ -1,39 +1,30 @@
 ﻿// Задача 4: Напишите программу, которая принимает на вход три числа и выдаёт максимальное из этих чисел.
 Console.WriteLine("Vvedite tri chisla");
-int a = int.Parse(Console.ReadLine());
-int b = int.Parse(Console.ReadLine());
-int c = int.Parse(Console.ReadLine());
+int a1 = int.Parse(Console.ReadLine());
+int a2 = int.Parse(Console.ReadLine());
+int a3 = int.Parse(Console.ReadLine());
 
 int max;
+max = a1;
 
 
-if (a > b)
+if (max < a2)
 {
-
-
-    if (a > c)
-    {
-        max = a;
-        Console.WriteLine(max);
-    }
+    max = a2;
 
 }
-else
+
+if (max < a3)
 {
-    if (b > c)
-    {
-        max = b;
+    max = a3;
 
-       Console.WriteLine(max);
-
-    }
-    else
-    {
-        max = c;
-       Console.WriteLine(max);
-    }
-
-    
 }
+
+
+Console.WriteLine(max);
+
+
+
+
 
 
