@@ -3,9 +3,8 @@
 
 
 
-int number2Value(value)
+int number2Value(int value)
 {
-
     int number2 = value / 10 % 10;
     return number2;
 
@@ -20,7 +19,7 @@ if (value < 100 || value > 999)
 {
 
     Console.WriteLine("vvedennoe chislo ne trexznachnoe");
-
+    return;
 }
 
-  Console.WriteLine(number2Value(value));
+Console.WriteLine(number2Value(value));
