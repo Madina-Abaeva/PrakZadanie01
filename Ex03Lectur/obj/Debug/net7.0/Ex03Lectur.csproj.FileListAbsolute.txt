@@ -1,0 +1,15 @@
+C:\C001\Ex03Lectur\bin\Debug\net7.0\Ex03Lectur.exe
+C:\C001\Ex03Lectur\bin\Debug\net7.0\Ex03Lectur.deps.json
+C:\C001\Ex03Lectur\bin\Debug\net7.0\Ex03Lectur.runtimeconfig.json
+C:\C001\Ex03Lectur\bin\Debug\net7.0\Ex03Lectur.dll
+C:\C001\Ex03Lectur\bin\Debug\net7.0\Ex03Lectur.pdb
+C:\C001\Ex03Lectur\obj\Debug\net7.0\Ex03Lectur.csproj.AssemblyReference.cache
+C:\C001\Ex03Lectur\obj\Debug\net7.0\Ex03Lectur.GeneratedMSBuildEditorConfig.editorconfig
+C:\C001\Ex03Lectur\obj\Debug\net7.0\Ex03Lectur.AssemblyInfoInputs.cache
+C:\C001\Ex03Lectur\obj\Debug\net7.0\Ex03Lectur.AssemblyInfo.cs
+C:\C001\Ex03Lectur\obj\Debug\net7.0\Ex03Lectur.csproj.CoreCompileInputs.cache
+C:\C001\Ex03Lectur\obj\Debug\net7.0\Ex03Lectur.dll
+C:\C001\Ex03Lectur\obj\Debug\net7.0\refint\Ex03Lectur.dll
+C:\C001\Ex03Lectur\obj\Debug\net7.0\Ex03Lectur.pdb
+C:\C001\Ex03Lectur\obj\Debug\net7.0\Ex03Lectur.genruntimeconfig.cache
+C:\C001\Ex03Lectur\obj\Debug\net7.0\ref\Ex03Lectur.dll
