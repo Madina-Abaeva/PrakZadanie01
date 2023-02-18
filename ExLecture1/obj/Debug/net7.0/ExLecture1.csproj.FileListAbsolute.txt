@@ -1,0 +1,15 @@
+C:\C001\ExLecture1\bin\Debug\net7.0\ExLecture1.exe
+C:\C001\ExLecture1\bin\Debug\net7.0\ExLecture1.deps.json
+C:\C001\ExLecture1\bin\Debug\net7.0\ExLecture1.runtimeconfig.json
+C:\C001\ExLecture1\bin\Debug\net7.0\ExLecture1.dll
+C:\C001\ExLecture1\bin\Debug\net7.0\ExLecture1.pdb
+C:\C001\ExLecture1\obj\Debug\net7.0\ExLecture1.csproj.AssemblyReference.cache
+C:\C001\ExLecture1\obj\Debug\net7.0\ExLecture1.GeneratedMSBuildEditorConfig.editorconfig
+C:\C001\ExLecture1\obj\Debug\net7.0\ExLecture1.AssemblyInfoInputs.cache
+C:\C001\ExLecture1\obj\Debug\net7.0\ExLecture1.AssemblyInfo.cs
+C:\C001\ExLecture1\obj\Debug\net7.0\ExLecture1.csproj.CoreCompileInputs.cache
+C:\C001\ExLecture1\obj\Debug\net7.0\ExLecture1.dll
+C:\C001\ExLecture1\obj\Debug\net7.0\refint\ExLecture1.dll
+C:\C001\ExLecture1\obj\Debug\net7.0\ExLecture1.pdb
+C:\C001\ExLecture1\obj\Debug\net7.0\ExLecture1.genruntimeconfig.cache
+C:\C001\ExLecture1\obj\Debug\net7.0\ref\ExLecture1.dll

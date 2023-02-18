@@ -9,9 +9,11 @@ int number3Value(int value)
 Console.WriteLine("Vvedite trexznachnoe chislo ");
 int value = int.Parse(Console.ReadLine());
 
-if(value < 100 )
+if (value < 100)
 {
-    Console.WriteLine("третьей цифры нет ");
+    Console.WriteLine("tret'ey cifri net ");
+    return;
+
 }
 
 Console.WriteLine(number3Value(value));
