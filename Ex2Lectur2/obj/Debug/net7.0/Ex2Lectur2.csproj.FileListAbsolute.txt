@@ -1,0 +1,15 @@
+C:\C001\Ex2Lectur2\bin\Debug\net7.0\Ex2Lectur2.exe
+C:\C001\Ex2Lectur2\bin\Debug\net7.0\Ex2Lectur2.deps.json
+C:\C001\Ex2Lectur2\bin\Debug\net7.0\Ex2Lectur2.runtimeconfig.json
+C:\C001\Ex2Lectur2\bin\Debug\net7.0\Ex2Lectur2.dll
+C:\C001\Ex2Lectur2\bin\Debug\net7.0\Ex2Lectur2.pdb
+C:\C001\Ex2Lectur2\obj\Debug\net7.0\Ex2Lectur2.csproj.AssemblyReference.cache
+C:\C001\Ex2Lectur2\obj\Debug\net7.0\Ex2Lectur2.GeneratedMSBuildEditorConfig.editorconfig
+C:\C001\Ex2Lectur2\obj\Debug\net7.0\Ex2Lectur2.AssemblyInfoInputs.cache
+C:\C001\Ex2Lectur2\obj\Debug\net7.0\Ex2Lectur2.AssemblyInfo.cs
+C:\C001\Ex2Lectur2\obj\Debug\net7.0\Ex2Lectur2.csproj.CoreCompileInputs.cache
+C:\C001\Ex2Lectur2\obj\Debug\net7.0\Ex2Lectur2.dll
+C:\C001\Ex2Lectur2\obj\Debug\net7.0\refint\Ex2Lectur2.dll
+C:\C001\Ex2Lectur2\obj\Debug\net7.0\Ex2Lectur2.pdb
+C:\C001\Ex2Lectur2\obj\Debug\net7.0\Ex2Lectur2.genruntimeconfig.cache
+C:\C001\Ex2Lectur2\obj\Debug\net7.0\ref\Ex2Lectur2.dll
