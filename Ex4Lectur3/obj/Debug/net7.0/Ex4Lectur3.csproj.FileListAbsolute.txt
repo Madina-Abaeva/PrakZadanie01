@@ -1,0 +1,15 @@
+C:\C001\Ex4Lectur3\obj\Debug\net7.0\Ex4Lectur3.csproj.AssemblyReference.cache
+C:\C001\Ex4Lectur3\obj\Debug\net7.0\Ex4Lectur3.GeneratedMSBuildEditorConfig.editorconfig
+C:\C001\Ex4Lectur3\obj\Debug\net7.0\Ex4Lectur3.AssemblyInfoInputs.cache
+C:\C001\Ex4Lectur3\obj\Debug\net7.0\Ex4Lectur3.AssemblyInfo.cs
+C:\C001\Ex4Lectur3\obj\Debug\net7.0\Ex4Lectur3.csproj.CoreCompileInputs.cache
+C:\C001\Ex4Lectur3\bin\Debug\net7.0\Ex4Lectur3.exe
+C:\C001\Ex4Lectur3\bin\Debug\net7.0\Ex4Lectur3.deps.json
+C:\C001\Ex4Lectur3\bin\Debug\net7.0\Ex4Lectur3.runtimeconfig.json
+C:\C001\Ex4Lectur3\bin\Debug\net7.0\Ex4Lectur3.dll
+C:\C001\Ex4Lectur3\bin\Debug\net7.0\Ex4Lectur3.pdb
+C:\C001\Ex4Lectur3\obj\Debug\net7.0\Ex4Lectur3.dll
+C:\C001\Ex4Lectur3\obj\Debug\net7.0\refint\Ex4Lectur3.dll
+C:\C001\Ex4Lectur3\obj\Debug\net7.0\Ex4Lectur3.pdb
+C:\C001\Ex4Lectur3\obj\Debug\net7.0\Ex4Lectur3.genruntimeconfig.cache
+C:\C001\Ex4Lectur3\obj\Debug\net7.0\ref\Ex4Lectur3.dll
