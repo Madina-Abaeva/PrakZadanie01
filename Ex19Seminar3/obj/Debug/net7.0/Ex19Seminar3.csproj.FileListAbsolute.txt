@@ -1,0 +1,15 @@
+C:\C001\Ex19Seminar3\bin\Debug\net7.0\Ex19Seminar3.exe
+C:\C001\Ex19Seminar3\bin\Debug\net7.0\Ex19Seminar3.deps.json
+C:\C001\Ex19Seminar3\bin\Debug\net7.0\Ex19Seminar3.runtimeconfig.json
+C:\C001\Ex19Seminar3\bin\Debug\net7.0\Ex19Seminar3.dll
+C:\C001\Ex19Seminar3\bin\Debug\net7.0\Ex19Seminar3.pdb
+C:\C001\Ex19Seminar3\obj\Debug\net7.0\Ex19Seminar3.csproj.AssemblyReference.cache
+C:\C001\Ex19Seminar3\obj\Debug\net7.0\Ex19Seminar3.GeneratedMSBuildEditorConfig.editorconfig
+C:\C001\Ex19Seminar3\obj\Debug\net7.0\Ex19Seminar3.AssemblyInfoInputs.cache
+C:\C001\Ex19Seminar3\obj\Debug\net7.0\Ex19Seminar3.AssemblyInfo.cs
+C:\C001\Ex19Seminar3\obj\Debug\net7.0\Ex19Seminar3.csproj.CoreCompileInputs.cache
+C:\C001\Ex19Seminar3\obj\Debug\net7.0\Ex19Seminar3.dll
+C:\C001\Ex19Seminar3\obj\Debug\net7.0\refint\Ex19Seminar3.dll
+C:\C001\Ex19Seminar3\obj\Debug\net7.0\Ex19Seminar3.pdb
+C:\C001\Ex19Seminar3\obj\Debug\net7.0\Ex19Seminar3.genruntimeconfig.cache
+C:\C001\Ex19Seminar3\obj\Debug\net7.0\ref\Ex19Seminar3.dll
