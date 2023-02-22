@@ -1,0 +1,15 @@
+C:\C001\Ex26DZ\bin\Debug\net7.0\Ex26DZ.exe
+C:\C001\Ex26DZ\bin\Debug\net7.0\Ex26DZ.deps.json
+C:\C001\Ex26DZ\bin\Debug\net7.0\Ex26DZ.runtimeconfig.json
+C:\C001\Ex26DZ\bin\Debug\net7.0\Ex26DZ.dll
+C:\C001\Ex26DZ\bin\Debug\net7.0\Ex26DZ.pdb
+C:\C001\Ex26DZ\obj\Debug\net7.0\Ex26DZ.csproj.AssemblyReference.cache
+C:\C001\Ex26DZ\obj\Debug\net7.0\Ex26DZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\C001\Ex26DZ\obj\Debug\net7.0\Ex26DZ.AssemblyInfoInputs.cache
+C:\C001\Ex26DZ\obj\Debug\net7.0\Ex26DZ.AssemblyInfo.cs
+C:\C001\Ex26DZ\obj\Debug\net7.0\Ex26DZ.csproj.CoreCompileInputs.cache
+C:\C001\Ex26DZ\obj\Debug\net7.0\Ex26DZ.dll
+C:\C001\Ex26DZ\obj\Debug\net7.0\refint\Ex26DZ.dll
+C:\C001\Ex26DZ\obj\Debug\net7.0\Ex26DZ.pdb
+C:\C001\Ex26DZ\obj\Debug\net7.0\Ex26DZ.genruntimeconfig.cache
+C:\C001\Ex26DZ\obj\Debug\net7.0\ref\Ex26DZ.dll
