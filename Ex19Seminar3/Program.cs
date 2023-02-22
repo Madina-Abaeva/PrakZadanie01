@@ -23,6 +23,5 @@ int Value(string text)
 int number = Value("vvedite chislo");
 
 
-bool m = Num(number);
-Console.WriteLine(m);
-
+bool value = Num(number);
+Console.WriteLine(value);
