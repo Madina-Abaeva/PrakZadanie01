@@ -1,0 +1,15 @@
+C:\C001\Ex25Dz\obj\Debug\net7.0\Ex25Dz.csproj.AssemblyReference.cache
+C:\C001\Ex25Dz\obj\Debug\net7.0\Ex25Dz.GeneratedMSBuildEditorConfig.editorconfig
+C:\C001\Ex25Dz\obj\Debug\net7.0\Ex25Dz.AssemblyInfoInputs.cache
+C:\C001\Ex25Dz\obj\Debug\net7.0\Ex25Dz.AssemblyInfo.cs
+C:\C001\Ex25Dz\obj\Debug\net7.0\Ex25Dz.csproj.CoreCompileInputs.cache
+C:\C001\Ex25Dz\bin\Debug\net7.0\Ex25Dz.exe
+C:\C001\Ex25Dz\bin\Debug\net7.0\Ex25Dz.deps.json
+C:\C001\Ex25Dz\bin\Debug\net7.0\Ex25Dz.runtimeconfig.json
+C:\C001\Ex25Dz\bin\Debug\net7.0\Ex25Dz.dll
+C:\C001\Ex25Dz\bin\Debug\net7.0\Ex25Dz.pdb
+C:\C001\Ex25Dz\obj\Debug\net7.0\Ex25Dz.dll
+C:\C001\Ex25Dz\obj\Debug\net7.0\refint\Ex25Dz.dll
+C:\C001\Ex25Dz\obj\Debug\net7.0\Ex25Dz.pdb
+C:\C001\Ex25Dz\obj\Debug\net7.0\Ex25Dz.genruntimeconfig.cache
+C:\C001\Ex25Dz\obj\Debug\net7.0\ref\Ex25Dz.dll
