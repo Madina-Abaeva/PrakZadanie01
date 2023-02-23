@@ -17,7 +17,7 @@ int Main(int number1, int number2)
         index++;
        
     }
- Console.WriteLine(stepen);
+
     return stepen;
 }
 
@@ -32,8 +32,8 @@ int Value(string text)
 
 int number1 = Value("vvedite chislo");
 int number2 = Value("vvedite stepen'");
-int P = Main(number1, number2);
-Console.WriteLine(P);
+int ExtNumber = Main(number1, number2);
+Console.WriteLine("rezultat = " + ExtNumber );
 
 
 
