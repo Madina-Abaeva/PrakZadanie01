@@ -33,7 +33,8 @@ int Value(string text)
 int number1 = Value("vvedite chislo");
 int number2 = Value("vvedite stepen'");
 int ExtNumber = Main(number1, number2);
-Console.WriteLine("rezultat = " + ExtNumber );
+Console.WriteLine($"{ number1} v  { number2} stepeni = " + ExtNumber );
+
 
 
 
