@@ -1,0 +1,15 @@
+C:\C001\Ex27Dz\bin\Debug\net7.0\Ex27Dz.exe
+C:\C001\Ex27Dz\bin\Debug\net7.0\Ex27Dz.deps.json
+C:\C001\Ex27Dz\bin\Debug\net7.0\Ex27Dz.runtimeconfig.json
+C:\C001\Ex27Dz\bin\Debug\net7.0\Ex27Dz.dll
+C:\C001\Ex27Dz\bin\Debug\net7.0\Ex27Dz.pdb
+C:\C001\Ex27Dz\obj\Debug\net7.0\Ex27Dz.csproj.AssemblyReference.cache
+C:\C001\Ex27Dz\obj\Debug\net7.0\Ex27Dz.GeneratedMSBuildEditorConfig.editorconfig
+C:\C001\Ex27Dz\obj\Debug\net7.0\Ex27Dz.AssemblyInfoInputs.cache
+C:\C001\Ex27Dz\obj\Debug\net7.0\Ex27Dz.AssemblyInfo.cs
+C:\C001\Ex27Dz\obj\Debug\net7.0\Ex27Dz.csproj.CoreCompileInputs.cache
+C:\C001\Ex27Dz\obj\Debug\net7.0\Ex27Dz.dll
+C:\C001\Ex27Dz\obj\Debug\net7.0\refint\Ex27Dz.dll
+C:\C001\Ex27Dz\obj\Debug\net7.0\Ex27Dz.pdb
+C:\C001\Ex27Dz\obj\Debug\net7.0\Ex27Dz.genruntimeconfig.cache
+C:\C001\Ex27Dz\obj\Debug\net7.0\ref\Ex27Dz.dll
